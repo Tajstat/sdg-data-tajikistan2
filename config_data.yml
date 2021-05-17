@@ -51,7 +51,7 @@ inputs:
       - OBS_STATUS
       - UNIT_MULT
     drop_singleton_dimensions: false
-    dsd: 'TAJSTAT_DSD.xml'
+    dsd: 'data/TAJSTAT_DSD.xml'
     import_codes: true
   - class: InputYamlMdMeta
     # This describes the meta files, relative to the "src_dir" indicated above.
