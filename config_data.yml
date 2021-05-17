@@ -39,7 +39,7 @@ src_dir: ''
 # folder. Further, each item can have any/all of the parameters that class uses.
 # The defaults below show what is used when this is omitted.
 inputs:
- - class: InputSdmxMl_Multiple
+  - class: InputSdmxMl_Multiple
     path_pattern: 'data/*.xml'
     dimension_map:
       REF_AREA|tj: ''
