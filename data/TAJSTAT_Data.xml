@@ -1,0 +1,3029 @@
+<?xml version="1.0" ?>
+<!--Created with SDMX Converter v7.9.5-->
+<message:GenericData xmlns:generic="http://www.SDMX.org/resources/SDMXML/schemas/v2_0/generic" xmlns:common="http://www.SDMX.org/resources/SDMXML/schemas/v2_0/common" xmlns:message="http://www.SDMX.org/resources/SDMXML/schemas/v2_0/message" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <message:Header>
+    <message:ID>IREF1620818030368</message:ID>
+    <message:Test>false</message:Test>
+    <message:Truncated>false</message:Truncated>
+    <message:Prepared>2021-05-12T11:13:50Z</message:Prepared>
+    <message:Sender id="BIS">
+      <message:Contact></message:Contact>
+    </message:Sender>
+    <message:KeyFamilyRef>SDG</message:KeyFamilyRef>
+    <message:KeyFamilyAgency>IAEG-SDGs</message:KeyFamilyAgency>
+    <message:DataSetID>SDG</message:DataSetID>
+    <message:DataSetAction>Information</message:DataSetAction>
+  </message:Header>
+  <message:DataSet action="Information">
+  <generic:KeyFamilyRef>SDG</generic:KeyFamilyRef>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SI_POV_DAY1"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="_T"></generic:Value>
+      <generic:Value concept="AGE" value="_T"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PERCENT"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2015</generic:Time>
+      <generic:ObsValue value="4.81"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2016</generic:Time>
+      <generic:ObsValue value="4.34"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="3.58"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2018</generic:Time>
+      <generic:ObsValue value="2.95"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2019</generic:Time>
+      <generic:ObsValue value="2.61"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SI_POV_NAHC"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="_T"></generic:Value>
+      <generic:Value concept="AGE" value="_T"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PERCENT"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2015</generic:Time>
+      <generic:ObsValue value="31"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2016</generic:Time>
+      <generic:ObsValue value="30.3"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="29.5"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2018</generic:Time>
+      <generic:ObsValue value="27.4"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2019</generic:Time>
+      <generic:ObsValue value="26.3"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SI_POV_NAHC"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="_T"></generic:Value>
+      <generic:Value concept="AGE" value="_T"></generic:Value>
+      <generic:Value concept="URBANISATION" value="U"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PERCENT"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2015</generic:Time>
+      <generic:ObsValue value="35.2"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2016</generic:Time>
+      <generic:ObsValue value="34.4"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="33.3"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2018</generic:Time>
+      <generic:ObsValue value="21.5"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2019</generic:Time>
+      <generic:ObsValue value="18.4"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SI_POV_NAHC"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="_T"></generic:Value>
+      <generic:Value concept="AGE" value="_T"></generic:Value>
+      <generic:Value concept="URBANISATION" value="R"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PERCENT"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2015</generic:Time>
+      <generic:ObsValue value="23.2"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2016</generic:Time>
+      <generic:ObsValue value="24.3"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="21.6"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2018</generic:Time>
+      <generic:ObsValue value="30.2"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2019</generic:Time>
+      <generic:ObsValue value="30.1"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="AG_PRD_ORTIND"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="_T"></generic:Value>
+      <generic:Value concept="AGE" value="_T"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="INDEX"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2015</generic:Time>
+      <generic:ObsValue value="0.1"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2016</generic:Time>
+      <generic:ObsValue value="0.1"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SH_STA_STNT"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="_T"></generic:Value>
+      <generic:Value concept="AGE" value="Y0T4"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PERCENT"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="17.5"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SH_STA_STNT"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="M"></generic:Value>
+      <generic:Value concept="AGE" value="Y0T4"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PERCENT"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="17.8"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SH_STA_STNT"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="F"></generic:Value>
+      <generic:Value concept="AGE" value="Y0T4"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PERCENT"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="17.2"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SH_STA_WAST"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="_T"></generic:Value>
+      <generic:Value concept="AGE" value="Y0T4"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PERCENT"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="5.6"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SH_STA_WAST"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="M"></generic:Value>
+      <generic:Value concept="AGE" value="Y0T4"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PERCENT"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="6.1"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SH_STA_WAST"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="F"></generic:Value>
+      <generic:Value concept="AGE" value="Y0T4"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PERCENT"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="5.0"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SN_STA_OVWGT"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="_T"></generic:Value>
+      <generic:Value concept="AGE" value="Y0T4"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PERCENT"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="3.3"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SN_STA_OVWGT"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="M"></generic:Value>
+      <generic:Value concept="AGE" value="Y0T4"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PERCENT"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="3.5"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SN_STA_OVWGT"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="F"></generic:Value>
+      <generic:Value concept="AGE" value="Y0T4"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PERCENT"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="3.2"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SH_STA_MORT"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="F"></generic:Value>
+      <generic:Value concept="AGE" value="_T"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PER_100000_LIVE_BIRTHS"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2015</generic:Time>
+      <generic:ObsValue value="28.4"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2016</generic:Time>
+      <generic:ObsValue value="25.2"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="24.1"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2018</generic:Time>
+      <generic:ObsValue value="24.1"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2019</generic:Time>
+      <generic:ObsValue value="23.6"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SH_STA_BRTC"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="_T"></generic:Value>
+      <generic:Value concept="AGE" value="_T"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PERCENT"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2015</generic:Time>
+      <generic:ObsValue value="98.0"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2016</generic:Time>
+      <generic:ObsValue value="98.0"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="98.0"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2018</generic:Time>
+      <generic:ObsValue value="99.0"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2019</generic:Time>
+      <generic:ObsValue value="99.0"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SH_DYN_MORT"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="_T"></generic:Value>
+      <generic:Value concept="AGE" value="Y0T4"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PER_100_LIVE_BIRTHS"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2015</generic:Time>
+      <generic:ObsValue value="43"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="33"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SH_DYN_MORT"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="M"></generic:Value>
+      <generic:Value concept="AGE" value="Y0T4"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PER_100_LIVE_BIRTHS"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2015</generic:Time>
+      <generic:ObsValue value="51"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="40"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SH_DYN_MORT"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="F"></generic:Value>
+      <generic:Value concept="AGE" value="Y0T4"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PER_100_LIVE_BIRTHS"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2015</generic:Time>
+      <generic:ObsValue value="46"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="26"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SH_DYN_NMRT"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="_T"></generic:Value>
+      <generic:Value concept="AGE" value="M0"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PERCENT"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2015</generic:Time>
+      <generic:ObsValue value="19"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="13"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SH_DYN_NMRT"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="M"></generic:Value>
+      <generic:Value concept="AGE" value="M0"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PERCENT"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2015</generic:Time>
+      <generic:ObsValue value="21"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="16"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SH_DYN_NMRT"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="F"></generic:Value>
+      <generic:Value concept="AGE" value="M0"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PERCENT"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2015</generic:Time>
+      <generic:ObsValue value="18"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="10"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SH_HIV_INCD"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="_T"></generic:Value>
+      <generic:Value concept="AGE" value="_T"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PER_1000_UNINFECTED_POP"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2015</generic:Time>
+      <generic:ObsValue value="13.6"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2016</generic:Time>
+      <generic:ObsValue value="12.0"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="13.7"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2018</generic:Time>
+      <generic:ObsValue value="15.7"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2019</generic:Time>
+      <generic:ObsValue value="14.3"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SH_TBS_INCD"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="_T"></generic:Value>
+      <generic:Value concept="AGE" value="_T"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PER_100000_POP"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2015</generic:Time>
+      <generic:ObsValue value="60.4"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2016</generic:Time>
+      <generic:ObsValue value="60.6"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="59.2"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2018</generic:Time>
+      <generic:ObsValue value="56.2"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2019</generic:Time>
+      <generic:ObsValue value="56.0"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SH_TBS_INCD"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="M"></generic:Value>
+      <generic:Value concept="AGE" value="_T"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PER_100000_POP"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2015</generic:Time>
+      <generic:ObsValue value="65.5"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2016</generic:Time>
+      <generic:ObsValue value="65.7"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="63.8"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2018</generic:Time>
+      <generic:ObsValue value="60.3"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2019</generic:Time>
+      <generic:ObsValue value="62.5"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SH_TBS_INCD"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="F"></generic:Value>
+      <generic:Value concept="AGE" value="_T"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PER_100000_POP"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2015</generic:Time>
+      <generic:ObsValue value="55.2"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2016</generic:Time>
+      <generic:ObsValue value="55.3"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="54.5"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2018</generic:Time>
+      <generic:ObsValue value="52.6"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2019</generic:Time>
+      <generic:ObsValue value="49.2"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SH_DTH_NCD"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="_T"></generic:Value>
+      <generic:Value concept="AGE" value="_T"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PER_100000_POP"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2015</generic:Time>
+      <generic:ObsValue value="190.3"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2016</generic:Time>
+      <generic:ObsValue value="186.9"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="174.2"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2018</generic:Time>
+      <generic:ObsValue value="182.1"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2019</generic:Time>
+      <generic:ObsValue value="170.6"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SH_STA_SCIDEN"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="_T"></generic:Value>
+      <generic:Value concept="AGE" value="_T"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PER_100000_POP"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2015</generic:Time>
+      <generic:ObsValue value="2.6"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2016</generic:Time>
+      <generic:ObsValue value="2.7"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="2.0"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2018</generic:Time>
+      <generic:ObsValue value="2.4"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2019</generic:Time>
+      <generic:ObsValue value="2.4"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SH_STA_TRAF"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="_T"></generic:Value>
+      <generic:Value concept="AGE" value="_T"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PER_100000_POP"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2015</generic:Time>
+      <generic:ObsValue value="5.3"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2016</generic:Time>
+      <generic:ObsValue value="4.9"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="4.9"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2018</generic:Time>
+      <generic:ObsValue value="4.4"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2019</generic:Time>
+      <generic:ObsValue value="4.2"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SH_FPL_MTMM"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="F"></generic:Value>
+      <generic:Value concept="AGE" value="Y15T49"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PERCENT"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="52.2"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SP_DYN_ADKL"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="F"></generic:Value>
+      <generic:Value concept="AGE" value="Y15T19"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PER_1000_POP"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2015</generic:Time>
+      <generic:ObsValue value="46.39"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2016</generic:Time>
+      <generic:ObsValue value="40.58"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="30.85"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2018</generic:Time>
+      <generic:ObsValue value="40.06"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SH_PRV_SMOK"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="_T"></generic:Value>
+      <generic:Value concept="AGE" value="Y_GE15"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="0.5"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SH_MED_DEN"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="_T"></generic:Value>
+      <generic:Value concept="AGE" value="_T"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PER_100000_POP"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2015</generic:Time>
+      <generic:ObsValue value="208"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2016</generic:Time>
+      <generic:ObsValue value="206"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="210"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2018</generic:Time>
+      <generic:ObsValue value="211 "></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2019</generic:Time>
+      <generic:ObsValue value="207"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SE_ADT_EDUCTRN"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="_T"></generic:Value>
+      <generic:Value concept="AGE" value="_T"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PER_100000_POP"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2015</generic:Time>
+      <generic:ObsValue value="176.5"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2016</generic:Time>
+      <generic:ObsValue value="186.9"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="195.7"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2018</generic:Time>
+      <generic:ObsValue value="209.8"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2019</generic:Time>
+      <generic:ObsValue value="229.6"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SE_ADT_EDUCTRN"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="M"></generic:Value>
+      <generic:Value concept="AGE" value="_T"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PER_100000_POP"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2015</generic:Time>
+      <generic:ObsValue value="117.5"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2016</generic:Time>
+      <generic:ObsValue value="121"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="125.3"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2018</generic:Time>
+      <generic:ObsValue value="133.4"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2019</generic:Time>
+      <generic:ObsValue value="143.1"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SE_ADT_EDUCTRN"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="F"></generic:Value>
+      <generic:Value concept="AGE" value="_T"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PER_100000_POP"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2015</generic:Time>
+      <generic:ObsValue value="59"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2016</generic:Time>
+      <generic:ObsValue value="65.9"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="70.4"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2018</generic:Time>
+      <generic:ObsValue value="76.4"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2019</generic:Time>
+      <generic:ObsValue value="86.5"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SG_GEN_LOCG"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="F"></generic:Value>
+      <generic:Value concept="AGE" value="_T"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PERCENT"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2015</generic:Time>
+      <generic:ObsValue value="20.6"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2016</generic:Time>
+      <generic:ObsValue value="20.6"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="20.6"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2018</generic:Time>
+      <generic:ObsValue value="20.6"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2019</generic:Time>
+      <generic:ObsValue value="23.8"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="EG_ACS_ELEC"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="_T"></generic:Value>
+      <generic:Value concept="AGE" value="_T"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PERCENT"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="99.2"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="NY_GDP_PCAP"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="_T"></generic:Value>
+      <generic:Value concept="AGE" value="_T"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PERCENT"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2015</generic:Time>
+      <generic:ObsValue value="103.5"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2016</generic:Time>
+      <generic:ObsValue value="104.5"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="104.8"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2018</generic:Time>
+      <generic:ObsValue value="105.3"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SL_TLF_UEM"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="_T"></generic:Value>
+      <generic:Value concept="AGE" value="_T"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PERCENT"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2016</generic:Time>
+      <generic:ObsValue value="7.0"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SL_TLF_UEM"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="M"></generic:Value>
+      <generic:Value concept="AGE" value="_T"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PERCENT"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2016</generic:Time>
+      <generic:ObsValue value="8.0"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SL_TLF_UEM"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="F"></generic:Value>
+      <generic:Value concept="AGE" value="_T"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PERCENT"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2016</generic:Time>
+      <generic:ObsValue value="5.5"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SL_TLF_NEET"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="_T"></generic:Value>
+      <generic:Value concept="AGE" value="Y15T24"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PERCENT"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2016</generic:Time>
+      <generic:ObsValue value="29.3"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SL_TLF_NEET"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="M"></generic:Value>
+      <generic:Value concept="AGE" value="Y15T24"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PERCENT"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2016</generic:Time>
+      <generic:ObsValue value="7.2"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SL_TLF_NEET"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="F"></generic:Value>
+      <generic:Value concept="AGE" value="Y15T24"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PERCENT"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2016</generic:Time>
+      <generic:ObsValue value="49.3"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SL_TLF_CHD"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="_T"></generic:Value>
+      <generic:Value concept="AGE" value="Y5T17"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PERCENT"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2016</generic:Time>
+      <generic:ObsValue value="13.1"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SL_TLF_CHD"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="M"></generic:Value>
+      <generic:Value concept="AGE" value="Y5T17"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PERCENT"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2016</generic:Time>
+      <generic:ObsValue value="14.2"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SL_TLF_CHD"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="F"></generic:Value>
+      <generic:Value concept="AGE" value="Y5T17"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PERCENT"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2016</generic:Time>
+      <generic:ObsValue value="12.0"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SL_EMP_INJUR"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="_T"></generic:Value>
+      <generic:Value concept="AGE" value="_T"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PER_100000_POP"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2015</generic:Time>
+      <generic:ObsValue value="1.7"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2016</generic:Time>
+      <generic:ObsValue value="1.5"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="1.1"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2018</generic:Time>
+      <generic:ObsValue value="2.1"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2019</generic:Time>
+      <generic:ObsValue value="1.5"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SL_EMP_FTLINJUR"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="_T"></generic:Value>
+      <generic:Value concept="AGE" value="_T"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PER_100000_POP"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2015</generic:Time>
+      <generic:ObsValue value="0.6"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2016</generic:Time>
+      <generic:ObsValue value="0.6"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="0.2"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2018</generic:Time>
+      <generic:ObsValue value="0.2"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2019</generic:Time>
+      <generic:ObsValue value="0.3"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="FB_ATM_TOTL"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="_T"></generic:Value>
+      <generic:Value concept="AGE" value="_T"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="NUMBER"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2016</generic:Time>
+      <generic:ObsValue value="799.0"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="685"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2018</generic:Time>
+      <generic:ObsValue value="678"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2019</generic:Time>
+      <generic:ObsValue value="678"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="FB_CBK_BRCH"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="_T"></generic:Value>
+      <generic:Value concept="AGE" value="_T"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="NUMBER"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2015</generic:Time>
+      <generic:ObsValue value="354"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2016</generic:Time>
+      <generic:ObsValue value="353.0"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="266"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2018</generic:Time>
+      <generic:ObsValue value="230"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2019</generic:Time>
+      <generic:ObsValue value="242"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="FB_BNK_ACCSS"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="_T"></generic:Value>
+      <generic:Value concept="AGE" value="_T"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="NUMBER"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2015</generic:Time>
+      <generic:ObsValue value="2904500"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2016</generic:Time>
+      <generic:ObsValue value="3163334"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="3229363"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2018</generic:Time>
+      <generic:ObsValue value="3517260"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2019</generic:Time>
+      <generic:ObsValue value="4057782"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="NV_IND_MANF"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="_T"></generic:Value>
+      <generic:Value concept="AGE" value="_T"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PERCENT"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2015</generic:Time>
+      <generic:ObsValue value="8.7"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2016</generic:Time>
+      <generic:ObsValue value="9.7"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="10.0"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2018</generic:Time>
+      <generic:ObsValue value="13.2"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SL_TLF_MANF"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="_T"></generic:Value>
+      <generic:Value concept="AGE" value="_T"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PERCENT"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2015</generic:Time>
+      <generic:ObsValue value="2.5"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2016</generic:Time>
+      <generic:ObsValue value="2.5"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="3.6"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2018</generic:Time>
+      <generic:ObsValue value="3.5"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2019</generic:Time>
+      <generic:ObsValue value="2.4"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="GB_XPD_RSDV"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="_T"></generic:Value>
+      <generic:Value concept="AGE" value="_T"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PERCENT"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2015</generic:Time>
+      <generic:ObsValue value="0.15"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2016</generic:Time>
+      <generic:ObsValue value="0.12"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="0.09"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2018</generic:Time>
+      <generic:ObsValue value="0.09"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2019</generic:Time>
+      <generic:ObsValue value="0.09"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="SL_EMP_GTOTL"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="_T"></generic:Value>
+      <generic:Value concept="AGE" value="_T"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PERCENT"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2015</generic:Time>
+      <generic:ObsValue value="17.4"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2016</generic:Time>
+      <generic:ObsValue value="17.7"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="16.5"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2018</generic:Time>
+      <generic:ObsValue value="16.5"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2019</generic:Time>
+      <generic:ObsValue value="16.7"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="AG_LND_FRST"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="_T"></generic:Value>
+      <generic:Value concept="AGE" value="_T"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PERCENT"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2015</generic:Time>
+      <generic:ObsValue value="3.0"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2016</generic:Time>
+      <generic:ObsValue value="3.0"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="3.0"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2018</generic:Time>
+      <generic:ObsValue value="3.0"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2019</generic:Time>
+      <generic:ObsValue value="3.0"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="DT_TDS_DECT"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="_T"></generic:Value>
+      <generic:Value concept="AGE" value="_T"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PERCENT"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2015</generic:Time>
+      <generic:ObsValue value="101.1"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2016</generic:Time>
+      <generic:ObsValue value="78.3"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2017</generic:Time>
+      <generic:ObsValue value="64.1"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2018</generic:Time>
+      <generic:ObsValue value="48.1"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2019</generic:Time>
+      <generic:ObsValue value="46.7"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value concept="FREQ" value="A"></generic:Value>
+      <generic:Value concept="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value concept="SERIES" value="IT_NET_BBND"></generic:Value>
+      <generic:Value concept="REF_AREA" value="TJ"></generic:Value>
+      <generic:Value concept="SEX" value="_T"></generic:Value>
+      <generic:Value concept="AGE" value="_T"></generic:Value>
+      <generic:Value concept="URBANISATION" value="_T"></generic:Value>
+      <generic:Value concept="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value concept="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value concept="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value concept="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value concept="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value concept="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value concept="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value concept="UNIT_MEASURE" value="PER_100_POP"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:Time>2015</generic:Time>
+      <generic:ObsValue value="0.7"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:Time>2016</generic:Time>
+      <generic:ObsValue value="0.7"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value concept="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value concept="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value concept="NATURE" value="C"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+</message:DataSet>
+</message:GenericData>
