@@ -39,9 +39,20 @@ src_dir: ''
 # folder. Further, each item can have any/all of the parameters that class uses.
 # The defaults below show what is used when this is omitted.
 inputs:
-  - class: InputCsvData
-    # This describes the data files, relative to the "src_dir" indicated above.
-    path_pattern: data/*-*.csv
+ - class: InputSdmxMl_Multiple
+    path_pattern: 'data/*.xml'
+    dimension_map:
+      REF_AREA|tj: ''
+    drop_dimensions:
+      - SOURCE_DETAIL
+      - NATURE
+      - FREQ
+      - REPORTING_TYPE
+      - OBS_STATUS
+      - UNIT_MULT
+    drop_singleton_dimensions: false
+    dsd: 'TAJSTAT_DSD.xml'
+    import_codes: true
   - class: InputYamlMdMeta
     # This describes the meta files, relative to the "src_dir" indicated above.
     path_pattern: meta/*-*.md
