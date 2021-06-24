@@ -42,7 +42,7 @@ inputs:
   - class: InputSdmxMl_Multiple
     path_pattern: 'data/*.xml'
     dimension_map:
-      REF_AREA|tj: ''
+      REF_AREA|TJ: ''
     drop_dimensions:
       - SOURCE_DETAIL
       - NATURE
@@ -51,7 +51,7 @@ inputs:
       - OBS_STATUS
       - UNIT_MULT
     drop_singleton_dimensions: false
-    dsd: 'TAJSTAT_DSD.xml'
+    dsd: 'SDG_DSD.xml'
     import_codes: true
   - class: InputYamlMdMeta
     # This describes the meta files, relative to the "src_dir" indicated above.
