@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-5-2",
+  "title": "Доля коммерческих компаний, которые в\nпредыдущие 12 месяцев хотя бы один раз имели контакт\nс государственным должностным лицом и которые\nзаплатили взятку государственному должностному\nлицу или от которых это государственное должностное\nлицо требовало взятку"
+}

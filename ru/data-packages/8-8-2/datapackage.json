@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-8-2",
+  "title": "Ситуация с соблюдением трудовых прав на\nнациональном уровне (свобода объединений и заключение\nколлективных трудовых договоров) на основе\nдокументальных источников Международной\nорганизации труда (МОТ) и национального законодательства\nв разбивке по полу и миграционному статусу\n"
+}
