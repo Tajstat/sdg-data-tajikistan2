@@ -1,1 +1,1 @@
-{"data":{"Year":["2015","2016","2017","2018"],"SERIES":["SP_DYN_ADKL","SP_DYN_ADKL","SP_DYN_ADKL","SP_DYN_ADKL"],"REF_AREA":[null,null,null,null],"SEX":["F","F","F","F"],"AGE":["Y15T19","Y15T19","Y15T19","Y15T19"],"UNIT_MEASURE":["PER_1000_POP","PER_1000_POP","PER_1000_POP","PER_1000_POP"],"Value":[46.39,40.58,30.85,40.06]},"edges":{"From":["SEX"],"To":["AGE"]}}
+{"data":[],"edges":[]}
