@@ -6,22 +6,50 @@
             <meta http-equiv="X-UA-Compatible" content="IE=edge">
             <meta name="viewport" content="width=device-width, initial-scale=1">
 
-            <title>Disaggregation: REF_AREA - SDG data build documentation</title>
+            <title>AGE: Y_GE15 - SDG data build documentation</title>
 
             <script defer src="https://use.fontawesome.com/releases/v5.15.1/js/all.js"></script>
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.css">
             <style>
                 .btn-primary {
-                    background-color: #1D70B8;
-                    border-color: #1D70B8;
+                    background-color: #00703c;
+                    padding: 8px 10px 7px;
+                    border: 2px solid transparent;
+                    border-radius: 0;
+                    color: #fff;
+                    box-shadow: 0 2px 0 #002d18;
+                    text-decoration: none;
+                }
+                .btn-primary:visited {
+                    color: #fff;
+                }
+                .btn-primary:hover, .btn-primary:not(:disabled):not(.disabled):active {
+                    background-color: #005a30;
+                    text-decoration: none;
+                    border: 2px solid transparent;
+                }
+                .btn-primary:focus:not(:active):not(:hover) {
+                    border-color: #fd0;
+                    color: #0b0c0c;
+                    background-color: #fd0;
+                    box-shadow: 0 2px 0 #0b0c0c;
                 }
                 a {
                     color: #1D70B8;
                     text-decoration: underline;
                 }
+                a:hover {
+                    color: #003078;
+                }
+                a:visited {
+                    color: #4c2c92;
+                }
                 .download-info {
                     margin-left: 12px;
+                }
+                .table-striped tbody tr:nth-of-type(2n+1) {
+                    background-color: #f3f2f1;
                 }
             </style>
         </head>
@@ -33,70 +61,38 @@
             </nav>
             <main role="main">
                 <div class="container">
-                    <h1 style="margin:20px 0">Disaggregation: REF_AREA</h1>
+                    <h1 style="margin:20px 0">AGE: Y_GE15</h1>
                     <div>
                         
-        <div role="navigation" aria-describedby="contents-heading">
-            <h2 id="contents-heading">On this page</h2>
-            <ul>
-                <li><a href="#values-used">Values used in disaggregation</a></li>
-                <li><a href="#indicators-using">Indicators using disaggregation</a></li>
-            </ul>
-        </div>
         <div>
-            <h2 id="values-used" tabindex="-1">Values used in disaggregation</h2>
             
         <div class="my-3">
-            <a href="values--disaggregation--ref_area.csv" role="button" class="btn btn-primary" aria-describedby="values--disaggregation--ref_area">Download CSV of values used in this disaggregation</a>
-            <div id="values--disaggregation--ref_area" class="download-info">Size: 72 Bytes</div>
+            <a href="disaggregation-value--y-ge15.csv" role="button" class="btn btn-primary" aria-describedby="disaggregation-value--y-ge15">Download CSV of indicators using this disaggregation value</a>
+            <div id="disaggregation-value--y-ge15" class="download-info">Size: 64 Bytes</div>
         </div>
         
             
                 <div class="total-rows">
-                    Total rows: <span class="total">0</span>
+                    Total rows: <span class="total">1</span>
                 </div>
-                <table border="1" class="dataframe table table-striped table-bordered" id="values-table">
+                <table border="1" class="dataframe table table-striped table-bordered" id="disaggregation-value-table">
   <thead>
     <tr style="text-align: right;">
-      <th>Value</th>
+      <th>Indicator</th>
       <th>Disaggregation combinations using this value</th>
-      <th>Number of indicators</th>
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>#3-a-1</td>
+      <td>1</td>
+    </tr>
   </tbody>
 </table>
             <script type="text/javascript">
             var sdgBuild = sdgBuild || {};
             sdgBuild.tables = sdgBuild.tables || {};
-            sdgBuild.tables['values-table'] = [];
-            </script>
-            
-        </div>
-        <div>
-            <h2 id="indicators-using" tabindex="-1">Indicators using disaggregation</h2>
-            
-        <div class="my-3">
-            <a href="indicators--disaggregation--ref_area.csv" role="button" class="btn btn-primary" aria-describedby="indicators--disaggregation--ref_area">Download CSV of indicators using this disaggregation</a>
-            <div id="indicators--disaggregation--ref_area" class="download-info">Size: 1 Byte</div>
-        </div>
-        
-            
-                <div class="total-rows">
-                    Total rows: <span class="total">0</span>
-                </div>
-                <table border="1" class="dataframe table table-striped table-bordered" id="indicators-table">
-  <thead>
-    <tr style="text-align: right;">
-    </tr>
-  </thead>
-  <tbody>
-  </tbody>
-</table>
-            <script type="text/javascript">
-            var sdgBuild = sdgBuild || {};
-            sdgBuild.tables = sdgBuild.tables || {};
-            sdgBuild.tables['indicators-table'] = [];
+            sdgBuild.tables['disaggregation-value-table'] = [{"Indicator":"#3-a-1","Disaggregation combinations using this value":1}];
             </script>
             
         </div>
