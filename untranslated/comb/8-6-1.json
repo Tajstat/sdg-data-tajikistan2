@@ -1,1 +1,1 @@
-{"data":{"Year":["2016","2016","2016"],"SERIES":["SL_TLF_NEET","SL_TLF_NEET","SL_TLF_NEET"],"REF_AREA":[null,null,null],"SEX":[null,"M","F"],"AGE":["Y15T24","Y15T24","Y15T24"],"UNIT_MEASURE":["PT","PT","PT"],"Value":[293.0,7.2,49.3]},"edges":{"From":["AGE"],"To":["SEX"]}}
+{"data":[],"edges":[]}

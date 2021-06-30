@@ -1,1 +1,1 @@
-{"data":{"Year":["2017","2017","2017","2017","2017","2017"],"SERIES":["SH_STA_WAST","SH_STA_WAST","SH_STA_WAST","SN_STA_OVWGT","SN_STA_OVWGT","SN_STA_OVWGT"],"REF_AREA":[null,null,null,null,null,null],"SEX":[null,"M","F",null,"M","F"],"AGE":["Y0T4","Y0T4","Y0T4","Y0T4","Y0T4","Y0T4"],"UNIT_MEASURE":["PT","PT","PT","PT","PT","PT"],"Value":[5.6,6.1,50.0,3.3,3.5,3.2]},"edges":{"From":["AGE"],"To":["SEX"]}}
+{"data":[],"edges":[]}
